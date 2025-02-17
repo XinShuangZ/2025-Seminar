@@ -6,7 +6,7 @@
 
 
 
-<img src="E:\2025-Seminar\image\nju.png" alt="nju" style="zoom:50%;" />
+<img src=".\image\nju.png" alt="nju" style="zoom:50%;" />
 
 
 
